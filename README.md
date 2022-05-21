@@ -1,2 +1,2 @@
 # Qore-GC
-Qore Contributors - Game Changer Playground Scripts
+Qore Contributors - GameChanger Wallet Playground Scripts
