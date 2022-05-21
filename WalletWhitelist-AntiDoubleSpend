@@ -1,0 +1,58 @@
+{
+    "for": [
+        "b13f624cbe8be9ac7ddd824fdcb0811062d04c7ad34fcc781b006c3aef86a551"
+    ],
+    "id": "0a87a470-4c3a-4e14-b6bb-36ba13e654b6",
+    "type": "tx",
+    "title": "Alpha Title Script Demo",
+    "description": "Alpha Holders can use this link to receive the Alpha OG Title NFT. It can only be used from your whitelisted wallet and can only be used once.",
+    "outputs": {
+        "addr_test1qrcdd6gqpr7jxn00p5jrd2dy2tszdktuwkr66k0vc7e8gd4pw4am5x5se6nqt44ml898qq4cpeudl8rxwehpchztdj8q7vasnn": [
+            {
+                "policyId": "0",
+                "assetName": "Adagotchi Title - The Alpha",
+                "quantity": "1"
+            }
+        ]
+    },
+    "mints": [
+        {
+            "script": {
+                "issuers": [
+                    {
+                        "accountIndex": 0,
+                        "addressIndex": 0
+                    }
+                ],
+                "beforeSlotOffset": 90000
+            },
+            "assets": [
+                {
+                    "assetName": "Adagotchi Title - The Alpha",
+                    "quantity": "1"
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "721": {
+            "0": {
+                "Adagotchi Title - The Alpha": {
+                    "url": "Adagotchi.io",
+                    "name": "Adagotchi Title - The Alpha",
+                    "author": "Adagotchi",
+                    "image": "ipfs://QmS5ptxPs7jhEpK62ZxqLciAyFwpqQ62WyNwwMqgbt7SdD",
+                    "version": "0.1",
+                    "mediaType": "image/png",
+                    "files": [
+                        {
+                            "name": "title-The_Alpha.png",
+                            "mediaType": "image/png",
+                            "src": "ipfs://QmS5ptxPs7jhEpK62ZxqLciAyFwpqQ62WyNwwMqgbt7SdD"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
